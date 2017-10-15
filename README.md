@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+<code>
+	code Block
+</code>
+
+*Italic Mark down*
+
+**Bold MD**
+
+~~Strike~~
